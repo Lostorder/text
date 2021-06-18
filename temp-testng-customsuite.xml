@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+  <test name="text">
+    <classes>
+      <class name="com.text">
+        
+      </class> <!-- com.text -->
+	  
+
+	  
+    </classes>
+  </test> <!-- DogShop -->
+</suite> <!-- Default Suite -->
